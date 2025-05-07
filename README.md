@@ -27,7 +27,7 @@
 
 If you'd like to share ideas, collaborate, or chat about technology, feel free to reach out!
 
-[![LinkedIn](www.linkedin.com/in/rafa-perez-a508a6326)  
+[LinkedIn](www.linkedin.com/in/rafa-perez-a508a6326)  
 📧 Email: rafaperezlife@gmail.com
 
 ---
